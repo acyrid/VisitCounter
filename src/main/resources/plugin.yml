@@ -1,0 +1,5 @@
+name: VisitCounter
+main: com.acyrid.VisitCounter.VisitCounter
+authors: ['Jadeon']
+version: 1.0
+
